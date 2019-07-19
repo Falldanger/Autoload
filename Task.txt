@@ -1,0 +1,7 @@
+Importing and autoloading classes
+
+Rename the files from the previous exercise according to the class names. For example, the Car class file should be called “Car.php”, the trait file CanMove should be called “CanMove”, and so on.
+Put all these files in the lib folder.
+Set up autoloading classes.
+Remove all require_once (and its equivalents) in all files.
+Make sure everything still works.
